@@ -3,7 +3,6 @@
 import {
   Background,
   CertificationsSection,
-  ContactSection,
   ExperienceSection,
   Footer,
   HeroSection,
@@ -11,7 +10,6 @@ import {
   OverviewSection,
   ProjectsSection,
   TechStackSection,
-  TestimonialsSection
 } from "@/components/portfolio";
 
 export default function Portfolio() {
