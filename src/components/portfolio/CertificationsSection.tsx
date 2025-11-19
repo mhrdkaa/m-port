@@ -27,7 +27,7 @@ const certifications: Certificate[] = [
     issued: "November 2024",
     skills: ["IoT", "PostgreSQL", "Product Development", "Web Development", "Python"],
     color: "from-blue-500 to-blue-600",
-    certificatePreview: "/certificates/indoneris.png",
+    certificatePreview: "/certificates/iot.png",
     providerIconSize: 64,
     platformIconSize: 88
   }
